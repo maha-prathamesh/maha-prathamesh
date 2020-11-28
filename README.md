@@ -1,4 +1,3 @@
-<img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 <b>Hey!</b>👋
 I'm Prathamesh, a Software developer and Data Science Enthusiast.<br>
   
@@ -34,4 +33,4 @@ I'm Prathamesh, a Software developer and Data Science Enthusiast.<br>
 ![](https://img.shields.io/badge/CLOUD-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CLOUD-GCP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-
+<img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
