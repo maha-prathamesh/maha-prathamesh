@@ -1,5 +1,6 @@
 <b>Hey!</b><br>
 <b>I'm Prathamesh, a Software developer and Data Science Enthusiast.<b><br>
+<img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
   
 ![](https://img.shields.io/badge/DATA-SCIENCE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
@@ -33,4 +34,4 @@
 ![](https://img.shields.io/badge/CLOUD-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CLOUD-GCP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+
