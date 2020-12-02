@@ -1,5 +1,5 @@
-<b>Hey!</b>👋
-I'm Prathamesh, a Software developer and Data Science Enthusiast.<br>
+<b>Hey!</b><br>
+<b>I'm Prathamesh, a Software developer and Data Science Enthusiast.<b><br>
   
 ![](https://img.shields.io/badge/DATA-SCIENCE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
