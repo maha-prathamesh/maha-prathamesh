@@ -23,5 +23,5 @@
 
 <h3 align="left">Find Me:</h3>
 <a href="https://in.linkedin.com/in/prathamesh-mahadeshwar-000418202" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Prathamesh" width="40" height="40"/></a>  
-<a href="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Prathamesh" width="40" height="40"/</a>
+<a href="https://www.instagram.com/maha_prathamesh" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Prathamesh" width="40" height="40"/</a>
 
