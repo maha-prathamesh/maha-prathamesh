@@ -12,6 +12,16 @@
   
 
 <h3 align="left">Interest:</h3>
-<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/symbol/RRPkFBr-olympic-sports-cricket-pictogram-vector.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/white/ILoRoa6-football-vector.svg" alt="tensorflow" width="40" height="40"/> </a>
-  </p>
+<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/symbol/RRPkFBr-olympic-sports-cricket-pictogram-vector.svg" alt="Cricket" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/white/ILoRoa6-football-vector.svg" alt="Football" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/outline/Avxe0C7-wasat-snooker-player-vector.svg" alt="Snooker" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/black/eJIARzV-tennis-player-vector.svg" alt="Tennis" width="40" height="40"/> </a>  
+<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/green/WHbx6QI-green-formula-one-racecar-vector.svg" alt="Formula 1" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/yellow/lbsdGPq-yellow-book-reading-vector.svg" alt="Reading" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/white/BJdc8qy-music-note-vector.svg" alt="Music" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://svg-clipart.com/svg/yellow/0cX4Ve3-compass-2-vector.svg" alt="Travel" width="40" height="40"/> </a> 
+
+<h3 align="left">Find Me:</h3>
+<a href="https://in.linkedin.com/in/prathamesh-mahadeshwar-000418202" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Prathamesh" width="40" height="40"/></a>  
+<a href="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Prathamesh" width="40" height="40"/</a>
+
