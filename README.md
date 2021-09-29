@@ -1,10 +1,6 @@
 ## नमस्ते 🙏
 <b>I'm Prathamesh, AI engineer works with image and text data.<b><br>
   
-### I have technical experience and interest in -
-* Computer vision 
-* Natural Language Processing 
-* Robotics
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
